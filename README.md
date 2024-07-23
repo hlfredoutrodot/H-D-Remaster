@@ -1,6 +1,6 @@
 # Hidden and Dangerous Remaster
 ## What's that
-H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files and others improvement made by the community and me. The aim of this version is to create a fuild game experience playable on modern os and hardware using moderns drivers without any bugs.
+H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files and others improvement made by the community and me. The aim of this version is to create a fluid game experience playable on modern os and hardware using moderns drivers without any bugs.
 
 ## Improvement list
 
@@ -36,7 +36,7 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
  - Added the right 3ds max plugins files in the game directory
  - removed dead body optimisation in Germany6 due to the performances of new computers
  - Added [DXVK](https://github.com/doitsujin/dxvk) which permit the game to be played with modern graphic cards and with v-sync actived with Vulkan
- - readded individual allied faces from H&D Original
+ - added individual allied faces from H&D Original
 
 ## Download
 Download it on Mega [here](https://hd-remaster.atspace.eu/download/)
