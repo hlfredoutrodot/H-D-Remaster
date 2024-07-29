@@ -39,4 +39,4 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
  - added individual allied faces from H&D Original
 
 ## Download
-Download it on Mega [here](https://mega.nz/file/4GcSSLqR#wrOjplZwzPzhaMlrVkrT-d11bJr5GqIJprwxuLiE19U)
+Download it on Mega [here](https://mega.nz/file/AP1lwRBI#IH3yI5ULK6IADw1OSJ8WEmaDRGlzi3GMYMmYCs09Xyg)
