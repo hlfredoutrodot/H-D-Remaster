@@ -26,7 +26,7 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
 
  - uncensored the game
  - uncensored the game menus
- - patched the multiplayer on modern windows (thanks to [HDDMultiplayerPatch](https://github.com/WJLiddy/HDDMultiplayerPatch))
+ - patched the multiplayer on modern windows (applied [HDDMultiplayerPatch](https://github.com/WJLiddy/HDDMultiplayerPatch))
  - Original opus musics
  - added gun holes
  - added body gibs
@@ -37,7 +37,10 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
  - removed dead body optimisation in Germany6 due to the performances of new computers
  - Added [DXVK](https://github.com/doitsujin/dxvk) which permit the game to be played with modern graphic cards and with v-sync actived with Vulkan
  - added individual allied faces from H&D Original
+ - reworked the setup to made the game standalone of the original game
+ - added a launcher which allow advanced functionnalities like language change, auto-login and auto-host
 
 ## Download
-Download it on Mega [here](https://mega.nz/file/4X9ghKqT#aD6ikivZL4fSUpBAHJTqV0alKwR7oyvoSNyQrQ5oDow)
-Download the setup [here](https://mega.nz/file/lT1EzJoC#i8-dq6Hjk6C4QNedZ5srTOlpzdNXJ4NJeD1Bo3uMAeM)
+Download online setup [here](https://mega.nz/file/lT1EzJoC#i8-dq6Hjk6C4QNedZ5srTOlpzdNXJ4NJeD1Bo3uMAeM)
+
+Download .7z archive [here](https://mega.nz/file/RKMHlYbD#_4HXlitgCTCtFLP4mHTZSUB9oEJGhD9yMyJBJBJK3D4)
