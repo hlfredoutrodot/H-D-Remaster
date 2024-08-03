@@ -41,6 +41,6 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
  - added a launcher which allow advanced functionnalities like language change, auto-login and auto-host
 
 ## Download
-Download online setup [here](https://mega.nz/file/lT1EzJoC#i8-dq6Hjk6C4QNedZ5srTOlpzdNXJ4NJeD1Bo3uMAeM)
+Download launcher to auto-install it [here](https://mega.nz/file/4b8gTaCK#Z9M0SBsX1sSTSvbia_ztyTuqxsI9j8PpzubcOHIt6zs)
 
-Download .7z archive [here](https://mega.nz/file/AC1iQDhS#wxZK7xf5bE3B5PNqO5u_i6FIf-_pZG9fZ9ysI1oMQTA)
+Download .7z archive [here](https://mega.nz/file/VaVz2BwA#9XZTveP09DfiiVp0Um03Z2v5WWnZPxFP5VNOw92uO7Q)
