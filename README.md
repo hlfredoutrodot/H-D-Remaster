@@ -35,7 +35,7 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
  - changed the game icon to the original
  - Added the right 3ds max plugins files in the game directory
  - removed dead body optimisation in Germany6 due to the performances of new computers
- - Added [DXVK](https://github.com/doitsujin/dxvk) which permit the game to be played with modern graphic cards and with v-sync actived with Vulkan
+ - Added [DXVK](https://github.com/doitsujin/dxvk) which permit the game to be played on modern graphic cards
  - added individual allied faces from H&D Original
  - reworked the setup to made the game standalone of the original game
  - added a launcher which allow advanced functionnalities like language change, auto-login and auto-host
