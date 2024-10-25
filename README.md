@@ -2,6 +2,7 @@
 ## What's that
 H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files and others improvement made by the community and me. The aim of this version is to create a fluid game experience playable on modern os and hardware using moderns drivers without any bugs.
 
+
 ## Improvement list
 
 **binary improvements (thanks to Daemonsteufel):**
@@ -22,6 +23,7 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
  - added a third enemy group civils running away when there is explosion
  - some game editor additionnal functions
 
+
 **General improvement**:
 
  - uncensored the game
@@ -40,10 +42,12 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
  - reworked the setup to made the game standalone of the original game
  - added a launcher which allow advanced functionnalities like language change, auto-login and auto-host
 
+
 ## Download
 1. Download launcher to auto-install it [here](https://mega.nz/file/4b8gTaCK#Z9M0SBsX1sSTSvbia_ztyTuqxsI9j8PpzubcOHIt6zs)
 
 2. For advanced users/modders, download .7z archive [here](https://mega.nz/file/VaVz2BwA#9XZTveP09DfiiVp0Um03Z2v5WWnZPxFP5VNOw92uO7Q)
+
 
 ## Install standalone
 
@@ -53,8 +57,10 @@ There is no loading screen or something else, after you launched the game.exe, j
 
 If you get an error which say that the game is not installed properly, go to the bin directory and launch regadd.reg file, which add the needed registry key.
 
+
 ### Antivirus troubleshooting
 The installer of the remaster was created using bat2exe converter, so game.exe is not signed by microsoft and it can cause some mistakes.
+
 
 ## Install on an existing Hidden and Dangerous Deluxe installation (NOT adviced -> cause a lot of errors)
 
@@ -64,9 +70,11 @@ After this, you can launch the game with game.exe and not \bin\hde.exe, I let yo
 
 Please consider that this installation procedure may cause some conflicts because it's installed in an admin-righted folder but the program is launch with user permissions. It's why this installation isn't very adviced.
 
+
 ## External Settings (language & username)
 
 The files in \bin\startconfig\ are configuration files which stores the language settings and the username.
+
 
 ### Language
 
@@ -77,9 +85,11 @@ Here a list of supported language (just replace English by another languages in 
  - Spanish
  - Italian
 
+
 ### Username
 
 The username file set the username will be used to launch the game and it also set the multiplayer username
+
 
 ### DoAutoHost
 
