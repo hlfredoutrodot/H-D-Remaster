@@ -41,11 +41,11 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
  - added a launcher which allow advanced functionnalities like language change, auto-login and auto-host
 
 ## Download
-Download launcher to auto-install it [here](https://mega.nz/file/4b8gTaCK#Z9M0SBsX1sSTSvbia_ztyTuqxsI9j8PpzubcOHIt6zs)
+1. Download launcher to auto-install it [here](https://mega.nz/file/4b8gTaCK#Z9M0SBsX1sSTSvbia_ztyTuqxsI9j8PpzubcOHIt6zs)
 
-For advanced users/modders, download .7z archive [here](https://mega.nz/file/VaVz2BwA#9XZTveP09DfiiVp0Um03Z2v5WWnZPxFP5VNOw92uO7Q)
+2. For advanced users/modders, download .7z archive [here](https://mega.nz/file/VaVz2BwA#9XZTveP09DfiiVp0Um03Z2v5WWnZPxFP5VNOw92uO7Q)
 
-## Install
+## Install standalone
 
 Just launch game.exe (first link in the download section) in an empty directory located in your user path (Documents for example). It's where the game will be installed.
 
@@ -55,6 +55,14 @@ If you get an error which say that the game is not installed properly, go to the
 
 ### Antivirus troubleshooting
 The installer of the remaster was created using bat2exe converter, so game.exe is not signed by microsoft and it can cause some mistakes.
+
+## Install on an existing Hidden and Dangerous Deluxe installation (NOT adviced -> cause a lot of errors)
+
+Download the second download in the download section, extract it (if asked the extracted files must replace the existing) into your h&d deluxe directory (for me: C:\Program Files (x86)\Take2\Hidden and Dangerous Deluxe). This must be extracted next to the bin and data folders.
+
+After this, you can launch the game with game.exe and not \bin\hde.exe, I let you create the shortcut.
+
+Please consider that this installation procedure may cause some conflicts because it's installed in an admin-righted folder but the program is launch with user permissions. It's why this installation isn't very adviced.
 
 ## External Settings (language & username)
 
