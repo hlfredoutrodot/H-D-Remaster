@@ -35,7 +35,7 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
  - changed the game icon to the original
  - Added the right 3ds max plugins files in the game directory
  - removed dead body optimisation in Germany6 due to the performances of new computers
- - Added [DXVK](https://github.com/doitsujin/dxvk) which permit the game to be played on modern graphic cards
+ - Added [DXVK](https://github.com/doitsujin/dxvk) which permit the game to be played on modern graphic cards with Vulkan
  - added individual allied faces from H&D Original
  - reworked the setup to made the game standalone of the original game
  - added a launcher which allow advanced functionnalities like language change, auto-login and auto-host
@@ -48,6 +48,13 @@ For advanced users/modders, download .7z archive [here](https://mega.nz/file/VaV
 ## Install
 
 Just launch game.exe (first link in the download section) in an empty directory located in your user path (Documents for example). It's where the game will be installed.
+
+There is no loading screen or something else, after you launched the game.exe, just wait the update.7z is deleted in the directory where you placed game.exe.
+
+If you get an error which say that the game is not installed properly, go to the bin directory and launch regadd.reg file, which add the needed registry key.
+
+### Antivirus troubleshooting
+The installer of the remaster was created using bat2exe converter, so game.exe is not signed by microsoft and it can cause some mistakes.
 
 ## External Settings (language & username)
 
