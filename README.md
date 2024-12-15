@@ -48,7 +48,7 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
 1. Download .7z archive [here](https://mega.nz/file/VaVz2BwA#9XZTveP09DfiiVp0Um03Z2v5WWnZPxFP5VNOw92uO7Q)
 
 ### Antivirus troubleshooting
-The installer of the remaster was created using bat2exe converter, so game.exe is not signed by microsoft and it can cause some mistakes.
+The installer of the remaster was created using bat2exe converter, so game.exe is not signed by microsoft and it can cause some mistakes. If you won't bypass your antivirus, just launch the game by hde.exe (please keep in mind that this method don't allow you to have custom languages or custom user auto-login)
 
 
 ## Install on an existing Hidden and Dangerous Deluxe installation (Better solution)
