@@ -51,7 +51,7 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
 The installer of the remaster was created using bat2exe converter, so game.exe is not signed by microsoft and it can cause some mistakes. If you won't bypass your antivirus, just launch the game by hde.exe (please keep in mind that this method don't allow you to have custom languages or custom user auto-login)
 
 
-## Install on an existing Hidden and Dangerous Deluxe installation (Better solution)
+## Install on an existing Hidden and Dangerous Deluxe installation
 
 Download the archive in the download section, extract it (if asked the extracted files must replace the existing) into your h&d deluxe directory (for me: C:\Program Files (x86)\Take2\Hidden and Dangerous Deluxe). This must be extracted next to the bin and data folders.
 
