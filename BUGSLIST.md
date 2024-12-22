@@ -1,23 +1,23 @@
 # Major bugs
-
+<br>
 ## Solo games save trouble
 ### Explanation
 Solo games aren't saved if the game isn't in the original game directory or launched by multiples windows users such as admin or others users
 ### How
 Use the saving methods in H&D Extended & Extended Vanilla (used to save multiplayer and addons) which save games variable in directories instead of the windows registry
-
-
+<br>
+<br>
 # Minor bugs 
-
+<br>
 ## Weird H in options
 ### Explanations
 Weird H character in the menu option/controls just under the zoom settings
 ### How
 Not known
-
-
+<br>
+<br>
 # Features/improvement
-
+<br>
 ## Blocked start when not admin regkey
 **PLEASE CONSIDER THAT THIS NOT AFFECT THE ABILITY OF THE GAME TO RUN NORMALLY WHEN USED IN ALL THE OTHERS VERSIONS**
 ### What
